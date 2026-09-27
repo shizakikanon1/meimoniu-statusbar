@@ -1,0 +1,16 @@
+{
+  "project": "魅魔牛",
+  "origin": "The floating statusbar helper embedded in the user-supplied character-card JSON",
+  "helper_name": "悬浮状态栏",
+  "helper_id": "8e1447f5-5442-43b0-8a39-1446934c4340",
+  "sha256": "7e46b698c55f10d137cfb01c96c9639f494386d3d96c144ce82c8d0a00b5db1d",
+  "entry": "dist/statusbar/index.js",
+  "processing": "Exact extraction, without rewriting the original behavior or embedded styles",
+  "external_dependencies_preserved": true,
+  "not_included": [
+    "character settings",
+    "worldbook",
+    "greetings",
+    "full original card"
+  ]
+}
